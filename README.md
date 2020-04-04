@@ -1,2 +1,3 @@
 # mini-snap-trajectory-optimization
 在MATLAB上实现了mini-snap的轨迹优化
+运行minisnap，可以在屏幕上自由选点，回车之后便可以自动规划出一条光滑轨迹。轨迹规划原则是使得整段曲线的snap积分平方和最小。
